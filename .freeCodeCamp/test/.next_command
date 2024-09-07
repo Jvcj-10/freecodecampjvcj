@@ -170,3 +170,5 @@ grep 'cat[a-z]*'grep -o 'cat[a-z]*' kitty_ipsum_2.txt
 grep -o 'cat[a-z]*' kitty_ipsum_2.txt
 grep -o 'cat[a-z]*' kitty_ipsum_2.txt
 grep -o 'cat[a-z]*' kitty_ipsum_2.txt
+echo - '\nLines that they appear on:' >> kitty_info.txt
+echo -e '\nLines that they appear on:' >> kitty_info.txt
