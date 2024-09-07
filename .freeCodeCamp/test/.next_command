@@ -36,3 +36,7 @@ __vsc_prompt_cmd_original
 echo -e "\nNumber of words:" >> kitty_info.txt
 cat kitty_ipsum_1.txt
 echo -e "\nNumber of characters:" >> kitty_info.txt
+cat kitty_ipsum_1.txt
+__vsc_prompt_cmd_original
+cat kitty_ipsum_1.txt -m < wc >> kitty_info.txt
+wc -m < kitty_ipsum_1.txt >> kitty_info.txt
