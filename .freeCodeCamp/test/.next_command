@@ -48,3 +48,4 @@ grep 'meow' --line-numbers kitty_ipsum_1.txt
 grep 'meow' -n kitty_ipsum_1.txt
 grep 'meow' -n kitty_ipsum_1.txt
 grep 'meow' --color -n kitty_ipsum_1.txt
+grep meow[a-z]* --color -n kitty_ipsum_1.txt
