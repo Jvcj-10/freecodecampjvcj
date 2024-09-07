@@ -177,3 +177,4 @@ grep -n 'cat[a-z]*' kitty_ipsum_2.txt
 grep -n 'cat[a-z]*' kitty_ipsum_2.txt
 grep -n 'cat[a-z]*' kitty_ipsum_2.txt
 touch translate.sh
+chmod +x translate.sh
