@@ -109,3 +109,13 @@ grep 'cat[a-z]*' --color kitty_ipsum_1.txt
 echo '/nNumber of times cat, cats, or catnip appears:' >> kitty_info.txt
 echo '\nNumber of times cat, cats, or catnip appears:' >> kitty_info.txt
 echo -e '\nNumber of times cat, cats, or catnip appears:' >> kitty_info.txt
+grep cat[a-z]* kitty_info.txt
+grep cat[a-z]* kitty_info.txt
+grep -o cat[a-z]* kitty_info.txt
+grep -n cat[a-z]* kitty_info.txt
+grep -w cat[a-z]* kitty_info.txt
+grep -o cat[a-z]* kitty_info.txt
+grep -u cat[a-z]* kitty_info.txt
+grep -u 'cat[a-z]*' kitty_info.txt
+grep -o 'cat[a-z]*' kitty_info.txt
+grep -o 'cat[a-z]*' kitty_ipsum_1.txt
