@@ -134,3 +134,6 @@ grep -n 'cat[a-z]*' kitty_ipsum_1.txt
 echo -e '\n~~ kitty_ipsum_2.txt info ~~' >> kitty_info.txt
 echo -e '\n~~ kitty_ipsum_2.txt info ~~\n' >> kitty_info.txt
 echo -e '\n\n~~ kitty_ipsum_2.txt info ~~' >> kitty_info.txt
+echo -e '\n~~ Number of lines ~~' >> kitty_info.txt
+__vsc_prompt_cmd_original
+echo -e '\nNumber of lines:' >> kitty_info.txt
