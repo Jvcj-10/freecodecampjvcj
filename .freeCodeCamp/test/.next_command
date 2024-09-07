@@ -56,3 +56,10 @@ grep meow[a-z]* --color -c kitty_ipsum_1.txt
 grep meow[a-z]* -c kitty_ipsum_1.txt
 man grep
 grep meow[a-z]* -o kitty_ipsum_1.txt
+wc -c meow[a-z]* -o kitty_ipsum_1.txt
+wc -l kitty_ipsum_1.txt
+grep meow[a-z]* -c kitty_ipsum_1.txt
+wc -l
+wc -l
+wc -l
+grep meow[a-z]* -o kitty_ipsum_1.txt
