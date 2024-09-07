@@ -125,3 +125,7 @@ echo '/nLines that they appear on:' >> kitty_info.txt
 echo '\nLines that they appear on:' >> kitty_info.txt
 echo -e '\nLines that they appear on:' >> kitty_info.txt
 grep -n 'cat[a-z]*' kitty_ipsum_1.txt
+grep -n 'cat[a-z]*' kitty_ipsum_1.txt
+__vsc_prompt_cmd_original
+grep -n 'cat[a-z]*' kitty_ipsum_1.txt
+grep -n 'cat[a-z]*' kitty_ipsum_1.txt
