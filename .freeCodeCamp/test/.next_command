@@ -43,3 +43,8 @@ wc -m < kitty_ipsum_1.txt >> kitty_info.txt
 grep 'meow' kitty_ipsum_1.txt
 man grep
 grep 'meow' --color kitty_ipsum_1.txt
+man grep
+grep 'meow' --line-numbers kitty_ipsum_1.txt
+grep 'meow' -n kitty_ipsum_1.txt
+grep 'meow' -n kitty_ipsum_1.txt
+grep 'meow' --color -n kitty_ipsum_1.txt
