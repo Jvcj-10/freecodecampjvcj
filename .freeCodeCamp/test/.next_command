@@ -137,3 +137,6 @@ echo -e '\n\n~~ kitty_ipsum_2.txt info ~~' >> kitty_info.txt
 echo -e '\n~~ Number of lines ~~' >> kitty_info.txt
 __vsc_prompt_cmd_original
 echo -e '\nNumber of lines:' >> kitty_info.txt
+cat kitty_ipsum_2.txt
+cat kitty_ipsum_2.txt
+cat kitty_ipsum_2.txt
