@@ -68,3 +68,4 @@ echo -e "\nLines that they appear on:" >> kitty_info.txt
 grep meow[a-z]* -n kitty_ipsum_1.txt
 grep meow[a-z]* -n kitty_ipsum_1.txt
 man grep
+cat name.txt
