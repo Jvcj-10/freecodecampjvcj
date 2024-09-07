@@ -32,3 +32,5 @@ echo -e "~~ kitty_ipsum_1.txt info ~~" >> kitty_info.txt
 echo -e "\nNumber of lines:" >> kitty_info.txt
 wc -l kitty_ipsum_1.txt > kitty_info.txt
 cat kitty_ipsum_1.txt
+__vsc_prompt_cmd_original
+echo -e "\nNumber of words:" >> kitty_info.txt
