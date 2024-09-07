@@ -92,3 +92,6 @@ grep 'meow[a-z]*' -n kitty_ipsum_1.txt
 grep 'meow[a-z]*' -n kitty_ipsum_1.txt
 grep 'meow[a-z]*' -n kitty_ipsum_1.txt
 man sed
+grep 'meow[a-z]+*' -n kitty_ipsum_1.txt
+grep 'meow[a-z]*' -n kitty_ipsum_1.txt
+grep 'meow[a-z]*' -n kitty_ipsum_1.txt
