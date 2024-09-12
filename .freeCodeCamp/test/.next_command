@@ -45,3 +45,4 @@ psql --username=freecodecamp --dbname=postgres
 [[ a =~ [0-9] ]]
 [[ a1 =~ [0-9] ]]
 [[ a1 =~ ^[0-9]$ ]]
+[[ 1 =~ ^[0-9]$ ]]
