@@ -42,3 +42,4 @@ psql --username=freecodecamp --dbname=postgres
 ./bike-shop.sh
 ./bike-shop.sh
 ./bike-shop.sh
+[[ a =~ [0-9] ]]
