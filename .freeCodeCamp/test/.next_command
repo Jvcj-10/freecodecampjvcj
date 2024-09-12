@@ -212,3 +212,16 @@ psql --username=freecodecamp --dbname=postgres
 ./bike-shop.sh
 2
 ./bike-shop.sh
+git init
+git -u remote
+git -v remote
+git remote
+git remote -u
+git remote -v
+git add origin https://github.com/Jvcj-10/freecodecampjvcj
+git remote add origin https://github.com/Jvcj-10/freecodecampjvcj
+git remote -v
+git add .
+git branch bikes
+git checkout bikes
+git add .
