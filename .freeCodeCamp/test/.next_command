@@ -33,3 +33,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 PDATE bikes SET available = false WHERE available = true
 UPDATE bikes SET available = false WHERE available = true
 psql --username=freecodecamp --dbname=postgres
+./bike-shop.sh
