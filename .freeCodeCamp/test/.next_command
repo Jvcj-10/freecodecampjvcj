@@ -35,3 +35,4 @@ UPDATE bikes SET available = false WHERE available = true
 psql --username=freecodecamp --dbname=postgres
 ./bike-shop.sh
 ./bike-shop.sh
+./bike-shop.sh
