@@ -38,3 +38,6 @@ psql --username=freecodecamp --dbname=postgres
 ./bike-shop.sh
 3
 ./bike-shop.sh
+./bike-shop.sh
+./bike-shop.sh
+./bike-shop.sh
