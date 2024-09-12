@@ -110,3 +110,7 @@ echo '28 | Mountain'
 ./bike-shop.sh
 echo ' M e '
 echo "$(echo ' M e ')."
+echo "$(echo ' M e ') | sed 's/ //' ."
+echo "$(echo ' M e ')."
+echo "$(echo ' M e ' | sed 's/ //') ."
+echo "$(echo ' M e ' | sed 's/ //')."
