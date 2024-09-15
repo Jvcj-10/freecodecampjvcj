@@ -90,3 +90,10 @@ bash castle.sh
 nano castle.sh
 bash castle.sh
 bash castle.sh
+git init
+git add remote origin https://github.com/Jvcj-10/freecodecampjvcj
+git add origin https://github.com/Jvcj-10/freecodecampjvcj
+git remote add origin https://github.com/Jvcj-10/freecodecampjvcj
+git branch nanojvcj
+git checkout nanojvcj
+git add .
