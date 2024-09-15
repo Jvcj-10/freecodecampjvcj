@@ -78,3 +78,4 @@ bash castle.sh
 nano castle.sh
 fg
 nano castle.sh
+bash castle.sh
