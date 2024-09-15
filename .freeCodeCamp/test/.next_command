@@ -65,3 +65,5 @@ __vsc_prompt_cmd_original
 touch castle.sh
 ls --color=auto
 nano castle.sh
+./castle.sh
+bash castle.sh
