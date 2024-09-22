@@ -355,3 +355,11 @@ git status
 git commit -m "Removed periodic_table submodule"
 rm .gitmodules
 git add .
+cd periodic_table
+ls --color=auto -a
+rm -rf .git
+ls --color=auto -a
+cd ..
+git rm -f --cached periodic_table
+git commit -m "Removed periodic_table submodule"
+git add .
