@@ -350,3 +350,8 @@ git rm --cached periodic_table
 git rm -f --cached periodic_table
 git branch
 git add .
+git rm -f --cached periodic_table
+git status
+git commit -m "Removed periodic_table submodule"
+rm .gitmodules
+git add .
