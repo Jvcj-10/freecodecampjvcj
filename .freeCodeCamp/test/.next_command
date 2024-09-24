@@ -1,0 +1,277 @@
+psql --username=freecodecamp --dbname=postgres
+chmod +x number_guessing.sh
+cd number_guessing
+cd number_guessing_game
+chmod +x number_guess.sh
+git init
+git branch
+git checkout -b main
+git checkout -b add-logic-user-input
+./number_guessing
+./number_guess
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+psql --username=freecodecamp --dbname=postgres
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+git add .
+git log --oneli ne
+git log --oneline
+git commit "Initial commit"
+git commit -m "Initial commit"
+git checkout main
+git branch
+git checkout -b main
+git merge add-logic-user-input
+git log --oneline
+ls --color=auto -a
+rm -r .git
+rm -r -f .git
+ls --color=auto -a
+psql --username=freecodecamp --dbname=postgres
+git log --oneline
+git checkout -b "play"
+git checkout -b "play"
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+cd ..
+pg_dump -cC --inserts -U freecodecamp number_guess > number_guess.sql
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+echo -n 25a22740-cc40-4640-aa7d-648d5fb0c7aa
+cat /proc/self/environ
+echo -n 25a22740-cc40-4640-aa7d-648d5fb0c7aa
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+'/vscode/vscode-server/bin/linux-x64/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/node' -p '"29a619fb8291" + JSON.stringify(process.env) + "29a619fb8291"'
+builtin unset VSCODE_INJECTION
+[ -z "$VSCODE_SHELL_INTEGRATION" ]
+[ -n "${VSCODE_ENV_REPLACE:-}" ]
+[ -n "${VSCODE_ENV_PREPEND:-}" ]
+[ -n "${VSCODE_ENV_APPEND:-}" ]
+__vsc_regex_environment="^CYGWIN*|MINGW*|MSYS*"
+[[ "$(uname -s)" =~ $__vsc_regex_environment ]]
+__vsc_is_windows=0
+__vsc_regex_histcontrol=".*(erasedups|ignoreboth|ignoredups).*"
+[[ "$HISTCONTROL" =~ $__vsc_regex_histcontrol ]]
+__vsc_history_verify=1
+builtin unset __vsc_regex_environment
+builtin unset __vsc_regex_histcontrol
+__vsc_initialized=0
+__vsc_original_PS1="$PS1"
+__vsc_original_PS2="$PS2"
+__vsc_custom_PS1=""
+__vsc_custom_PS2=""
+__vsc_in_command_execution="1"
+__vsc_current_command=""
+__vsc_nonce="$VSCODE_NONCE"
+unset VSCODE_NONCE
+__vsc_stable="$VSCODE_STABLE"
+unset VSCODE_STABLE
+[ "$__vsc_stable" = "0" ]
+[[ -n "${bash_preexec_imported:-}" ]]
+__vsc_dbg_trap="$(__vsc_get_trap DEBUG)"
+[[ -z "$__vsc_dbg_trap" ]]
+[[ "$__vsc_dbg_trap" != '__vsc_preexec "$_"' && "$__vsc_dbg_trap" != '__vsc_preexec_all "$_"' ]]
+trap '__vsc_preexec_all "$_"' DEBUG
+__vsc_original_prompt_command=${PROMPT_COMMAND:-}
+builtin unset VSCODE_INJECTION
+[ -z "$VSCODE_SHELL_INTEGRATION" ]
+[ -n "${VSCODE_ENV_REPLACE:-}" ]
+[ -n "${VSCODE_ENV_PREPEND:-}" ]
+[ -n "${VSCODE_ENV_APPEND:-}" ]
+__vsc_regex_environment="^CYGWIN*|MINGW*|MSYS*"
+[[ "$(uname -s)" =~ $__vsc_regex_environment ]]
+__vsc_is_windows=0
+__vsc_regex_histcontrol=".*(erasedups|ignoreboth|ignoredups).*"
+[[ "$HISTCONTROL" =~ $__vsc_regex_histcontrol ]]
+__vsc_history_verify=1
+builtin unset __vsc_regex_environment
+builtin unset __vsc_regex_histcontrol
+__vsc_initialized=0
+__vsc_original_PS1="$PS1"
+__vsc_original_PS2="$PS2"
+__vsc_custom_PS1=""
+__vsc_custom_PS2=""
+__vsc_in_command_execution="1"
+__vsc_current_command=""
+__vsc_nonce="$VSCODE_NONCE"
+unset VSCODE_NONCE
+__vsc_stable="$VSCODE_STABLE"
+unset VSCODE_STABLE
+[ "$__vsc_stable" = "0" ]
+[[ -n "${bash_preexec_imported:-}" ]]
+__vsc_dbg_trap="$(__vsc_get_trap DEBUG)"
+[[ -z "$__vsc_dbg_trap" ]]
+[[ "$__vsc_dbg_trap" != '__vsc_preexec "$_"' && "$__vsc_dbg_trap" != '__vsc_preexec_all "$_"' ]]
+trap '__vsc_preexec_all "$_"' DEBUG
+__vsc_original_prompt_command=${PROMPT_COMMAND:-}
+psql --username=freecodecamp --dbname=postgres
+psql --username=freecodecamp --dbname=postgres
+cd number_guessing
+cd number_guessing_game
+git init
+git branch
+git checkout main
+git merge play
+git branch
+git checkout add-logic-user-input
+git checkout play
+git add .
+git commit "add play logic and fix user input"
+git commit -m "add play logic and fix user input"
+git checkout main
+git merge play
+./number_guessing.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+git add .
+git commit -m "feat: add play and alternate solution in comments"
+git checkout -b add-new-play-logic
+git checkout -b add-new-play-logic
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+git branch
+git add .
+git commit -m "fix: logic conditionals and guess counter"
+git checkout main
+git branch
+git merge add-new-play-logic
+git checkout add-logic-user-input
+git rebase main
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+git add .
+git commit -m "fix: user input logic"
+git branch main
+git branch
+git checkout main
+git checkout main
+git add .
+git commit -m "feat: user input logic and delete insert inputs"
+git checkout main
+git merge add-logic-user-input
+git checkout -b fix-things-insert-data
+git add .
+git commit -m "feat: insert data and fix play function"
+git checkout main
+git branch
+git merge fix-things-insert-data
+git branch -d add-logic-user-input
+git branch -d add-logic-user-input
+git branch -d add-new-play-logic
+git branch -d play
+git branch -d play fix-things-insert-data
+git rebase --interactive --root
+cd ..
+pg_dump -cC --inserts -U freecodecamp number_guess > number_guess.sql
+pg_dump -cC --inserts -U freecodecamp number_guess > number_guess.sql
+git init
+git add origin https://github.com/Jvcj-10/freecodecampjvcj
+git add remote origin https://github.com/Jvcj-10/freecodecampjvcj
+git remote add origin https://github.com/Jvcj-10/freecodecampjvcj
+git remote -v
+git checkout -b number_guess_jvcj
+git add .
+cd number_guessing
+cd number_guessing_game
+ls --color=auto -a
+rm -f .git
+rm -r .git
+rm -f .git
+rm -r -f .git
+cd ..
+git init
+git add .
+git branch
+git branch
+git init
+git branch
+git remote -v
+git checkout -b number-guessing-game
+git add .
